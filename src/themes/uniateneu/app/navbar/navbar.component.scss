@@ -44,7 +44,8 @@ nav.navbar {
 }
 
 a.navbar-brand img {
-  max-height: var(--ds-header-logo-height);
+  height: var(--ds-header-logo-height)+20;
+  width: 80px;
 }
 
 .navbar-nav {
@@ -55,4 +56,3 @@ a.navbar-brand img {
     color: var(--ds-navbar-link-color-hover);
   }
 }
-

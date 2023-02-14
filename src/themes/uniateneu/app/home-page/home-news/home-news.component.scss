@@ -6,7 +6,7 @@
     color: white;
     background-color: var(--bs-info);
     position: relative;
-    background-image: url('/assets/dspace/images/banner.jpg');
+    background-image: url('../../../assets/images/banner.jpg');
     background-size: cover;
 
     .container {
@@ -32,26 +32,34 @@
         background: linear-gradient(to right, var(--ds-banner-text-background), transparent);
         right: calc(-1 * var(--ds-banner-background-gradient-width));
       }
-
+      
       background-color: var(--ds-banner-text-background);
     }
-
-
+    
+    
     small.credits {
       a {
         color: inherit;
       }
-
+      
       opacity: 0.3;
       position: absolute;
       right: var(--bs-spacer);
       bottom: 0;
     }
   }
-
+  
   .jumbotron {
     background-color: transparent;
+    img.logo-branca{
+      margin: auto;
+      display: block;
+      width: 500px;
+      height: auto;
+    }
   }
+    
+  
 
   a {
     color: var(--ds-home-news-link-color);
@@ -65,37 +73,3 @@
 
 // search bar styling
 
-.dspace-search-form {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  width: 100%;
-  margin: auto;
-  padding: 1rem;
-  border-radius: 25px;
-  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-
-  input.dspace-search-input {
-    flex: 1;
-    padding: 0.5rem;
-    font-size: 1rem;
-    border: none;
-    border-radius: 0.25rem 0 0 0.25rem;
-    box-shadow: none;
-  }
-
-  button[type="submit"] {
-    padding: 0.5rem 1rem;
-    background-color: #e7df02;
-    color: white;
-    border: none;
-    border-radius: 0 0.5rem 0.5rem 0;
-    font-size: 1rem;
-    cursor: pointer;
-    box-shadow: none;
-
-    &:hover {
-      background-color: #00d916;
-    }
-  }
-}

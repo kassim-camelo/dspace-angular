@@ -2,29 +2,29 @@
   
   // "401.help": "You're not authorized to access this page. You can use the button below to get back to the home page.",
   // TODO New key - Add a translation
-  "401.help": "You're not authorized to access this page. You can use the button below to get back to the home page.",
+  "401.help": "Você não tem autorização para acessar esta página. Você pode usar o botão abaixo para voltar à página inicial.",
   
   // "401.link.home-page": "Take me to the home page",
   // TODO New key - Add a translation
-  "401.link.home-page": "Take me to the home page",
+  "401.link.home-page": "Me leve à página inicial",
   
   // "401.unauthorized": "unauthorized",
   // TODO New key - Add a translation
-  "401.unauthorized": "unauthorized",
+  "401.unauthorized": "Não autorizado",
   
   
   
   // "403.help": "You don't have permission to access this page. You can use the button below to get back to the home page.",
   // TODO New key - Add a translation
-  "403.help": "You don't have permission to access this page. You can use the button below to get back to the home page.",
+  "403.help": "Você não tem autorização para acessar esta página. Você pode usar o botão abaixo para voltar à página inicial.",
   
   // "403.link.home-page": "Take me to the home page",
   // TODO New key - Add a translation
-  "403.link.home-page": "Take me to the home page",
+  "403.link.home-page": "Me leve ao Início.",
   
   // "403.forbidden": "forbidden",
   // TODO New key - Add a translation
-  "403.forbidden": "forbidden",
+  "403.forbidden": "proibido",
   
   
   
@@ -186,7 +186,7 @@
   "admin.registries.bitstream-formats.table.supportLevel.head": "Nível de Suporte",
   
   // "admin.registries.bitstream-formats.title": "DSpace Angular :: Bitstream Format Registry",
-  "admin.registries.bitstream-formats.title": "DSpace Angular :: Registro de Formato de Bitstream",
+  "admin.registries.bitstream-formats.title": "Repositório Institucional UniAteneu :: Registro de Formato de Bitstream",
   
   
   
@@ -228,7 +228,7 @@
   "admin.registries.metadata.schemas.table.namespace": "Namespace",
   
   // "admin.registries.metadata.title": "DSpace Angular :: Metadata Registry",
-  "admin.registries.metadata.title": "DSpace Angular :: Registro de Metadados",
+  "admin.registries.metadata.title": "Repositório Institucional UniAteneu :: Registro de Metadados",
   
   
   
@@ -306,7 +306,7 @@
   "admin.registries.schema.return": "Voltar",
   
   // "admin.registries.schema.title": "DSpace Angular :: Metadata Schema Registry",
-  "admin.registries.schema.title": "DSpace Angular :: Registro de Esquema de Metadados",
+  "admin.registries.schema.title": "Repositório Institucional UniAteneu :: Registro de Esquema de Metadados",
   
   
   
@@ -328,7 +328,7 @@
   
   // "admin.access-control.epeople.title": "DSpace Angular :: EPeople",
   // TODO New key - Add a translation
-  "admin.access-control.epeople.title": "DSpace Angular :: EPeople",
+  "admin.access-control.epeople.title": "Repositório Institucional UniAteneu :: EPeople",
   
   // "admin.access-control.epeople.head": "EPeople",
   // TODO New key - Add a translation
@@ -479,15 +479,15 @@
   
   // "admin.access-control.groups.title": "DSpace Angular :: Groups",
   // TODO New key - Add a translation
-  "admin.access-control.groups.title": "DSpace Angular :: Groups",
+  "admin.access-control.groups.title": "Repositório Institucional UniAteneu :: Grupos",
   
   // "admin.access-control.groups.title.singleGroup": "DSpace Angular :: Edit Group",
   // TODO New key - Add a translation
-  "admin.access-control.groups.title.singleGroup": "DSpace Angular :: Edit Group",
+  "admin.access-control.groups.title.singleGroup": "Repositório Institucional UniAteneu :: Editar Grupo",
   
   // "admin.access-control.groups.title.addGroup": "DSpace Angular :: New Group",
   // TODO New key - Add a translation
-  "admin.access-control.groups.title.addGroup": "DSpace Angular :: New Group",
+  "admin.access-control.groups.title.addGroup": "Repositório Institucional UniAteneu :: Novo Grupo",
   
   // "admin.access-control.groups.head": "Groups",
   "admin.access-control.groups.head": "Grupos",
@@ -1421,7 +1421,7 @@
   
   // "collection.source.update.notifications.error.content": "The provided settings have been tested and didn't work.",
   // TODO New key - Add a translation
-  "collection.source.update.notifications.error.content": "The provided settings have been tested and didn't work.",
+  "collection.source.update.notifications.error.content": "As configurações providas foram testadas e não funcionaram.",
   
   // "collection.source.update.notifications.error.title": "Server Error",
   "collection.source.update.notifications.error.title": "Erro no Servidor",
@@ -1430,7 +1430,7 @@
   
   // "communityList.tabTitle": "DSpace - Community List",
   // TODO New key - Add a translation
-  "communityList.tabTitle": "DSpace - Community List",
+  "communityList.tabTitle": "uniAteneu - Lista de Comunidades",
   
   // "communityList.title": "List of Communities",
   "communityList.title": "Lista de Comunidades",
@@ -1445,14 +1445,14 @@
   
   // "community.create.notifications.success": "Successfully created the Community",
   // TODO New key - Add a translation
-  "community.create.notifications.success": "Successfully created the Community",
+  "community.create.notifications.success": "Comunidade criada com sucesso",
   
   // "community.create.sub-head": "Create a Sub-Community for Community {{ parent }}",
   "community.create.sub-head": "Criar uma Sub-Comunidade para Comunidade {{ parent }}",
   
   // "community.curate.header": "Curate Community: {{community}}",
   // TODO New key - Add a translation
-  "community.curate.header": "Curate Community: {{community}}",
+  "community.curate.header": "Curadoria de Comunidade: {{community}}",
   
   // "community.delete.cancel": "Cancel",
   "community.delete.cancel": "Cancelar",
@@ -1790,7 +1790,7 @@
   
   // "cookies.consent.app.description.preferences": "Required for saving your preferences",
   // TODO New key - Add a translation
-  "cookies.consent.app.description.preferences": "Required for saving your preferences",
+  "cookies.consent.app.description.preferences": "Necessário para salvar suas preferências",
   
   
   
@@ -2253,7 +2253,7 @@
   "home.breadcrumbs": "Home",
   
   // "home.title": "DSpace Angular :: Home",
-  "home.title": "DSpace Angular :: Início",
+  "home.title": "Repositório Institucional UniAteneu :: Início",
   
   // "home.top-level-communities.head": "Communities in DSpace",
   "home.top-level-communities.head": "Comunidades no DSpace",
@@ -2999,7 +2999,7 @@
   
   // "item.search.title": "DSpace Angular :: Item Search",
   // TODO New key - Add a translation
-  "item.search.title": "DSpace Angular :: Item Search",
+  "item.search.title": "Repositório Institucional UniAteneu :: Busca de Items",
   
   
   
@@ -3020,7 +3020,7 @@
   
   // "item.page.edit": "Edit this item",
   // TODO New key - Add a translation
-  "item.page.edit": "Edit this item",
+  "item.page.edit": "Editar este item",
   
   // "item.page.files": "Files",
   "item.page.files": "Arquivos",
@@ -3062,19 +3062,19 @@
   
   // "item.page.relationships.isAuthorOfPublication": "Publications",
   // TODO New key - Add a translation
-  "item.page.relationships.isAuthorOfPublication": "Publications",
+  "item.page.relationships.isAuthorOfPublication": "Publicações",
   
   // "item.page.relationships.isJournalOfPublication": "Publications",
   // TODO New key - Add a translation
-  "item.page.relationships.isJournalOfPublication": "Publications",
+  "item.page.relationships.isJournalOfPublication": "Publicações",
   
   // "item.page.relationships.isOrgUnitOfPerson": "Authors",
   // TODO New key - Add a translation
-  "item.page.relationships.isOrgUnitOfPerson": "Authors",
+  "item.page.relationships.isOrgUnitOfPerson": "Autores",
   
   // "item.page.relationships.isOrgUnitOfProject": "Research Projects",
   // TODO New key - Add a translation
-  "item.page.relationships.isOrgUnitOfProject": "Research Projects",
+  "item.page.relationships.isOrgUnitOfProject": "Projetos de Pesquisa",
   
   // "item.page.subject": "Keywords",
   "item.page.subject": "Palavras-chave",
@@ -3084,11 +3084,11 @@
   
   // "item.page.bitstreams.view-more": "Show more",
   // TODO New key - Add a translation
-  "item.page.bitstreams.view-more": "Show more",
+  "item.page.bitstreams.view-more": "Exibir mais",
   
   // "item.page.bitstreams.collapse": "Collapse",
   // TODO New key - Add a translation
-  "item.page.bitstreams.collapse": "Collapse",
+  "item.page.bitstreams.collapse": "Recolher",
   
   // "item.page.filesection.original.bundle" : "Original bundle",
   // TODO New key - Add a translation
@@ -3100,43 +3100,43 @@
   
   // "item.preview.dc.identifier.uri": "Identifier:",
   // TODO New key - Add a translation
-  "item.preview.dc.identifier.uri": "Identifier:",
+  "item.preview.dc.identifier.uri": "Identificador:",
   
   // "item.preview.dc.contributor.author": "Authors:",
   // TODO New key - Add a translation
-  "item.preview.dc.contributor.author": "Authors:",
+  "item.preview.dc.contributor.author": "Autores:",
   
   // "item.preview.dc.date.issued": "Published date:",
   // TODO New key - Add a translation
-  "item.preview.dc.date.issued": "Published date:",
+  "item.preview.dc.date.issued": "Data de publicação:",
   
   // "item.preview.dc.description.abstract": "Abstract:",
   // TODO New key - Add a translation
-  "item.preview.dc.description.abstract": "Abstract:",
+  "item.preview.dc.description.abstract": "Resumo:",
   
   // "item.preview.dc.identifier.other": "Other identifier:",
   // TODO New key - Add a translation
-  "item.preview.dc.identifier.other": "Other identifier:",
+  "item.preview.dc.identifier.other": "Outro identificador:",
   
   // "item.preview.dc.language.iso": "Language:",
   // TODO New key - Add a translation
-  "item.preview.dc.language.iso": "Language:",
+  "item.preview.dc.language.iso": "Idioma:",
   
   // "item.preview.dc.subject": "Subjects:",
   // TODO New key - Add a translation
-  "item.preview.dc.subject": "Subjects:",
+  "item.preview.dc.subject": "Assuntos:",
   
   // "item.preview.dc.title": "Title:",
   // TODO New key - Add a translation
-  "item.preview.dc.title": "Title:",
+  "item.preview.dc.title": "Título:",
   
   // "item.preview.person.familyName": "Surname:",
   // TODO New key - Add a translation
-  "item.preview.person.familyName": "Surname:",
+  "item.preview.person.familyName": "Sobrenome:",
   
   // "item.preview.person.givenName": "Name:",
   // TODO New key - Add a translation
-  "item.preview.person.givenName": "Name:",
+  "item.preview.person.givenName": "Nome:",
   
   // "item.preview.person.identifier.orcid": "ORCID:",
   // TODO New key - Add a translation
@@ -3147,7 +3147,7 @@
   "item.select.confirm": "Confirmar seleção",
   
   // "item.select.empty": "No items to show",
-  "item.select.empty": "Nenhum itme a mostrar",
+  "item.select.empty": "Nenhum item a mostrar",
   
   // "item.select.table.author": "Author",
   "item.select.table.author": "Autor",
@@ -3165,19 +3165,19 @@
   
   // "item.version.history.head": "Version History",
   // TODO New key - Add a translation
-  "item.version.history.head": "Version History",
+  "item.version.history.head": "Histórico de mudanças",
   
   // "item.version.history.return": "Return",
   // TODO New key - Add a translation
-  "item.version.history.return": "Return",
+  "item.version.history.return": "Voltar",
   
   // "item.version.history.selected": "Selected version",
   // TODO New key - Add a translation
-  "item.version.history.selected": "Selected version",
+  "item.version.history.selected": "Versão selecionada",
   
   // "item.version.history.table.version": "Version",
   // TODO New key - Add a translation
-  "item.version.history.table.version": "Version",
+  "item.version.history.table.version": "Versão",
   
   // "item.version.history.table.item": "Item",
   // TODO New key - Add a translation
@@ -3189,17 +3189,17 @@
   
   // "item.version.history.table.date": "Date",
   // TODO New key - Add a translation
-  "item.version.history.table.date": "Date",
+  "item.version.history.table.date": "Data",
   
   // "item.version.history.table.summary": "Summary",
   // TODO New key - Add a translation
-  "item.version.history.table.summary": "Summary",
+  "item.version.history.table.summary": "Sumário",
   
   
   
   // "item.version.notice": "This is not the latest version of this item. The latest version can be found <a href='{{destination}}'>here</a>.",
   // TODO New key - Add a translation
-  "item.version.notice": "This is not the latest version of this item. The latest version can be found <a href='{{destination}}'>here</a>.",
+  "item.version.notice": "Esta não é a versão mais recente deste item. A versão mais recente pode ser encontrada <a href='{{destination}}'>aqui</a>.",
   
   
   
@@ -3229,7 +3229,7 @@
   "journal.search.results.head": "Resultado da Busca de Periódicos",
   
   // "journal.search.title": "DSpace Angular :: Journal Search",
-  "journal.search.title": "DSpace Angular :: Busca de Periódicos",
+  "journal.search.title": "Repositório Institucional UniAteneu :: Busca de Periódicos",
   
   
   
@@ -3271,7 +3271,7 @@
   
   // "journalvolume.page.edit": "Edit this item",
   // TODO New key - Add a translation
-  "journalvolume.page.edit": "Edit this item",
+  "journalvolume.page.edit": "Edite este item",
   
   // "journalvolume.page.issuedate": "Issue Date",
   "journalvolume.page.issuedate": "Data de Publicação",
@@ -3286,11 +3286,11 @@
   
   // "loading.bitstream": "Loading bitstream...",
   // TODO New key - Add a translation
-  "loading.bitstream": "Loading bitstream...",
+  "loading.bitstream": "Carregando bitstream...",
   
   // "loading.bitstreams": "Loading bitstreams...",
   // TODO New key - Add a translation
-  "loading.bitstreams": "Loading bitstreams...",
+  "loading.bitstreams": "Carregando bitstreams...",
   
   // "loading.browse-by": "Loading items...",
   "loading.browse-by": "Carregando itens...",
@@ -3306,7 +3306,7 @@
   
   // "loading.content-source": "Loading content source...",
   // TODO New key - Add a translation
-  "loading.content-source": "Loading content source...",
+  "loading.content-source": "Carregando content source...",
   
   // "loading.community": "Loading community...",
   "loading.community": "Carregando comunidade...",
@@ -3357,14 +3357,14 @@
   
   // "login.form.or-divider": "or",
   // TODO New key - Add a translation
-  "login.form.or-divider": "or",
+  "login.form.or-divider": "ou",
   
   // "login.form.password": "Password",
   "login.form.password": "Senha",
   
   // "login.form.shibboleth": "Log in with Shibboleth",
   // TODO New key - Add a translation
-  "login.form.shibboleth": "Log in with Shibboleth",
+  "login.form.shibboleth": "Entre com Shibboleth",
   
   // "login.form.submit": "Log in",
   "login.form.submit": "Entrar",
@@ -3374,7 +3374,7 @@
   
   // "login.breadcrumbs": "Login",
   // TODO New key - Add a translation
-  "login.breadcrumbs": "Login",
+  "login.breadcrumbs": "Entrar",
   
   
   
@@ -3430,7 +3430,7 @@
   "menu.section.browse_community_by_title": "Por Título",
   
   // "menu.section.browse_global": "All of DSpace",
-  "menu.section.browse_global": "Tudo no DSpace",
+  "menu.section.browse_global": "Buscar",
   
   // "menu.section.browse_global_by_author": "By Author",
   "menu.section.browse_global_by_author": "Por Autor",
@@ -3445,7 +3445,7 @@
   "menu.section.browse_global_by_title": "Por Título",
   
   // "menu.section.browse_global_communities_and_collections": "Communities & Collections",
-  "menu.section.browse_global_communities_and_collections": "Comunidades e Coleções",
+  "menu.section.browse_global_communities_and_collections": "Comunidades/Coleções",
   
   
   
@@ -3882,7 +3882,7 @@
   "person.search.results.head": "Resultado da Busca de Pessoa",
   
   // "person.search.title": "DSpace Angular :: Person Search",
-  "person.search.title": "DSpace Angular :: Buscar Pessoa",
+  "person.search.title": "UniAteneu :: Buscar Pessoa",
   
   
   
@@ -4169,7 +4169,7 @@
   
   // "profile.security.form.notifications.error.not-same": "The provided passwords are not the same.",
   // TODO New key - Add a translation
-  "profile.security.form.notifications.error.not-same": "The provided passwords are not the same.",
+  "profile.security.form.notifications.error.not-same": "As senhas informadas não são as mesmas.",
   
   // "profile.title": "Update Profile",
   // TODO New key - Add a translation
@@ -4243,7 +4243,7 @@
   "publication.search.results.head": "Resultados da Busca de Publicação",
   
   // "publication.search.title": "DSpace Angular :: Publication Search",
-  "publication.search.title": "DSpace Angular :: Busca de Publicações",
+  "publication.search.title": "Repositório Institucional UniAteneu :: Busca de Publicações",
   
   
   // "register-email.title": "New user registration",
@@ -4652,7 +4652,7 @@
   "search.switch-configuration.title": "Mostrar",
   
   // "search.title": "DSpace Angular :: Search",
-  "search.title": "DSpace Angular :: Busca",
+  "search.title": "Repositório Institucional UniAteneu :: Busca",
   
   // "search.breadcrumbs": "Search",
   // TODO New key - Add a translation
@@ -4971,47 +4971,47 @@
   
   // "statistics.title": "Statistics",
   // TODO New key - Add a translation
-  "statistics.title": "Statistics",
+  "statistics.title": "Estatísticas",
   
   // "statistics.header": "Statistics for {{ scope }}",
   // TODO New key - Add a translation
-  "statistics.header": "Statistics for {{ scope }}",
+  "statistics.header": "Estatísticas para {{ scope }}",
   
   // "statistics.breadcrumbs": "Statistics",
   // TODO New key - Add a translation
-  "statistics.breadcrumbs": "Statistics",
+  "statistics.breadcrumbs": "Estatísticas",
   
   // "statistics.page.no-data": "No data available",
   // TODO New key - Add a translation
-  "statistics.page.no-data": "No data available",
+  "statistics.page.no-data": "Não há registros disponíveis",
   
   // "statistics.table.no-data": "No data available",
   // TODO New key - Add a translation
-  "statistics.table.no-data": "No data available",
+  "statistics.table.no-data": "Não há registros disponíveis",
   
   // "statistics.table.title.TotalVisits": "Total visits",
   // TODO New key - Add a translation
-  "statistics.table.title.TotalVisits": "Total visits",
+  "statistics.table.title.TotalVisits": "Total de visitas",
   
   // "statistics.table.title.TotalVisitsPerMonth": "Total visits per month",
   // TODO New key - Add a translation
-  "statistics.table.title.TotalVisitsPerMonth": "Total visits per month",
+  "statistics.table.title.TotalVisitsPerMonth": "Total de visitas por mês",
   
   // "statistics.table.title.TotalDownloads": "File Visits",
   // TODO New key - Add a translation
-  "statistics.table.title.TotalDownloads": "File Visits",
+  "statistics.table.title.TotalDownloads": "Visitas de arquivos",
   
   // "statistics.table.title.TopCountries": "Top country views",
   // TODO New key - Add a translation
-  "statistics.table.title.TopCountries": "Top country views",
+  "statistics.table.title.TopCountries": "Visitas por país (maior ao menor)",
   
   // "statistics.table.title.TopCities": "Top city views",
   // TODO New key - Add a translation
-  "statistics.table.title.TopCities": "Top city views",
+  "statistics.table.title.TopCities": "Visitas por cidade (maior ao menor)",
   
   // "statistics.table.header.views": "Views",
   // TODO New key - Add a translation
-  "statistics.table.header.views": "Views",
+  "statistics.table.header.views": "Visualizações",
   
   
   
