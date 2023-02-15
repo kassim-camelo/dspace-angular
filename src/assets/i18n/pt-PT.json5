@@ -138,7 +138,7 @@
 "item.edit.return": "Voltar",
 
 // "repository.title.prefix": "DSpace Angular :: ",
-"repository.title.prefix": "DSpace ::",
+"repository.title.prefix": "UniAteneu ::",
 
 
 // "thumbnail.person.placeholder": "No Profile Picture Available",
@@ -499,9 +499,9 @@
   "admin.registries.schema.return": "Voltar",
   
   // "admin.registries.schema.title": "DSpace Angular :: Metadata Schema Registry",
-  "admin.registries.schema.title": "DSpace :: Registo de Esquema de Metadados",
+  "admin.registries.schema.title": "UniAteneu :: Registo de Esquema de Metadados",
   
-  
+
   
   // "admin.access-control.epeople.actions.delete": "Delete EPerson",
   "admin.access-control.epeople.actions.delete": "Apagar Utilizador",
