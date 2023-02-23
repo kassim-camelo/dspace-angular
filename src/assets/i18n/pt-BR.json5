@@ -189,7 +189,6 @@
   "admin.registries.bitstream-formats.title": "Repositório Institucional UniAteneu :: Registro de Formato de Bitstream",
   
   
-  
   // "admin.registries.metadata.breadcrumbs": "Metadata registry",
   // TODO New key - Add a translation
   "admin.registries.metadata.breadcrumbs": "Metadata registry",
@@ -1064,14 +1063,14 @@
   
   
   // "collection.create.head": "Create a Collection",
-  "collection.create.head": "Criar uma coleção",
+  "collection.create.head": "Criar um Curso",
   
   // "collection.create.notifications.success": "Successfully created the Collection",
   // TODO New key - Add a translation
   "collection.create.notifications.success": "Successfully created the Collection",
   
   // "collection.create.sub-head": "Create a Collection for Community {{ parent }}",
-  "collection.create.sub-head": "Criar uma Coleção na Comunidade {{ parent }}",
+  "collection.create.sub-head": "Criar um Curso na Unidade {{ parent }}",
   
   // "collection.curate.header": "Curate Collection: {{collection}}",
   // TODO New key - Add a translation
@@ -1441,7 +1440,7 @@
   
   
   // "community.create.head": "Create a Community",
-  "community.create.head": "Criar uma comunidade",
+  "community.create.head": "Criar uma Unidade Acadêmica",
   
   // "community.create.notifications.success": "Successfully created the Community",
   // TODO New key - Add a translation
@@ -1891,13 +1890,13 @@
   "dso-selector.create.collection.sub-level": "Create a new collection in",
   
   // "dso-selector.create.community.head": "New community",
-  "dso-selector.create.community.head": "Nova comunidade",
+  "dso-selector.create.community.head": "Nova Unidade Acadêmica",
   
   // "dso-selector.create.community.sub-level": "Create a new community in",
   "dso-selector.create.community.sub-level": "Criar uma nova coleção em",
   
   // "dso-selector.create.community.top-level": "Create a new top-level community",
-  "dso-selector.create.community.top-level": "Criar uma nova comunidade no nível superior",
+  "dso-selector.create.community.top-level": "Criar uma nova Unidade Acadêmica no nível superior",
   
   // "dso-selector.create.item.head": "New item",
   "dso-selector.create.item.head": "Novo item",
@@ -1914,7 +1913,7 @@
   "dso-selector.edit.collection.head": "Editar coleção",
   
   // "dso-selector.edit.community.head": "Edit community",
-  "dso-selector.edit.community.head": "Editar comunidade",
+  "dso-selector.edit.community.head": "Editar Unidades Acadêmicas",
   
   // "dso-selector.edit.item.head": "Edit item",
   "dso-selector.edit.item.head": "Editar item",
@@ -1978,7 +1977,7 @@
   "error.collections": "Erro ao carregar coleções",
   
   // "error.community": "Error fetching community",
-  "error.community": "Erro ao carregar comunidade",
+  "error.community": "Erro ao carregar Unidade Acadêmica",
   
   // "error.identifier": "No item found for the identifier",
   "error.identifier": "Nenhum item encontrado para o identificador",
@@ -2011,7 +2010,7 @@
   "error.submission.sections.init-form-error": "Ocorreu um erro durante a seção de inicialização, por favor verifique sua configuração de input-form. Detalhes estão abaixo : <br> <br>",
   
   // "error.top-level-communities": "Error fetching top-level communities",
-  "error.top-level-communities": "Erro ao carregar as comunidade de nível superior",
+  "error.top-level-communities": "Erro ao carregar as Unidades Acadêmicas de nível superior",
   
   // "error.validation.license.notgranted": "You must grant this license to complete your submission. If you are unable to grant this license at this time you may save your work and return later or remove the submission.",
   "error.validation.license.notgranted": "Você deve concordar com esta licença para completar sua submissão. Se vocẽ não estiver de acordo com esta licença neste momento você pode salvar seu trabalho para continuar depois ou remover a submissão.",
@@ -2256,10 +2255,10 @@
   "home.title": "Repositório Institucional UniAteneu :: Início",
   
   // "home.top-level-communities.head": "Communities in DSpace",
-  "home.top-level-communities.head": "Comunidades no DSpace",
+  "home.top-level-communities.head": "Unidades Acadêmicas da UniAteneu",
   
   // "home.top-level-communities.help": "Select a community to browse its collections.",
-  "home.top-level-communities.help": "Selecione uma comunidade para navegar por suas coleções",
+  "home.top-level-communities.help": "Selecione uma Unidade Acadêmica para navegar por suas obras:",
   
   
   
@@ -3309,7 +3308,7 @@
   "loading.content-source": "Carregando content source...",
   
   // "loading.community": "Loading community...",
-  "loading.community": "Carregando comunidade...",
+  "loading.community": "Carregando Unidade Acadêmica...",
   
   // "loading.default": "Loading...",
   "loading.default": "Carregando...",
@@ -3339,7 +3338,7 @@
   "loading.sub-communities": "Carregando sub-comunidades...",
   
   // "loading.top-level-communities": "Loading top-level communities...",
-  "loading.top-level-communities": "Carregando comunidades de nível superior...",
+  "loading.top-level-communities": "Carregando Unidades Acadêmicas de nível superior...",
   
   
   
@@ -3418,7 +3417,7 @@
   
   
   // "menu.section.browse_community": "This Community",
-  "menu.section.browse_community": "Esta Comunidade",
+  "menu.section.browse_community": "Esta Unidade Acadêmica",
   
   // "menu.section.browse_community_by_author": "By Author",
   "menu.section.browse_community_by_author": "Por Autor",
@@ -3445,7 +3444,7 @@
   "menu.section.browse_global_by_title": "Por Título",
   
   // "menu.section.browse_global_communities_and_collections": "Communities & Collections",
-  "menu.section.browse_global_communities_and_collections": "Comunidades/Coleções",
+  "menu.section.browse_global_communities_and_collections": "Unidades Acadêmicas/Cursos",
   
   
   
@@ -3464,7 +3463,7 @@
   "menu.section.edit_collection": "Coleção",
   
   // "menu.section.edit_community": "Community",
-  "menu.section.edit_community": "Comunidade",
+  "menu.section.edit_community": "Unidades Acadêmicas",
   
   // "menu.section.edit_item": "Item",
   "menu.section.edit_item": "Item",
@@ -3478,7 +3477,7 @@
   "menu.section.export_collection": "Coleção",
   
   // "menu.section.export_community": "Community",
-  "menu.section.export_community": "Comunidade",
+  "menu.section.export_community": "Unidades Acadêmicas",
   
   // "menu.section.export_item": "Item",
   "menu.section.export_item": "Item",
@@ -3552,7 +3551,7 @@
   "menu.section.new_collection": "Coleção",
   
   // "menu.section.new_community": "Community",
-  "menu.section.new_community": "Comunidade",
+  "menu.section.new_community": "Unidades Acadêmicas",
   
   // "menu.section.new_item": "Item",
   "menu.section.new_item": "Item",
@@ -3769,7 +3768,7 @@
   "nav.browse.header": "Tudo no DSpace",
   
   // "nav.community-browse.header": "By Community",
-  "nav.community-browse.header": "Por Comunidade",
+  "nav.community-browse.header": "Por Unidades Acadêmicas",
   
   // "nav.language": "Language switch",
   "nav.language": "Seletor de idioma",
